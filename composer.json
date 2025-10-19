@@ -1,0 +1,7 @@
+{
+  "name": "moussine/api-user",
+  "description": "API pour sauvegarder et récupérer un utilisateur",
+  "require": {
+    "php": "^8.0"
+  }
+}
